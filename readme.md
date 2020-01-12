@@ -1,6 +1,6 @@
 # Image-to-image translation for cross-domain disentanglement
 
-这个项目是以Tensorlayer实现的[Image-to-image translation for cross-domain disentanglement][https://arxiv.org/abs/1805.09730]。
+这个项目是以Tensorlayer实现的[Image-to-image translation for cross-domain disentanglement](https://arxiv.org/abs/1805.09730)。
 
 该篇文章发表于2018NIPS上，采用了分解的思想（disentanglement），提出了一种跨域分解（cross-domain disentanglement）的方法，将两个图像域中对应图像中域共有的东西从域独有的东西分离出来。
 
