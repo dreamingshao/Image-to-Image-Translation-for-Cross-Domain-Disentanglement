@@ -61,5 +61,5 @@ python run_cross_domain_disen.py --mode test --output_dir test/MODEL --checkpoin
 
 ## 结果
 
-![image-20200113180407279](./images/result.png)
+![image-20200113180407279](./result.png)
 
